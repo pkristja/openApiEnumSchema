@@ -36,11 +36,11 @@ Snipped of generated OpenAPI 3.0 documentation:
                     "<p>Valid values are:</p>\n" +
                     "<ul>\n" +
                     "<li>'JUNIOR_DEVELOPER_1': Text for junior 1.\n" +
-                    "<li>'JUNIOR_DEVELOPER_2': Text for junior 1.\n" +
-                    "<li>'JUNIOR_DEVELOPER_3': Text for junior 1.\n" +
-                    "<li>'SENIOR_DEVELOPER_1': Text for junior 1.\n" +
-                    "<li>'SENIOR_DEVELOPER_2': Text for junior 1.\n" +
-                    "<li>'SENIOR_DEVELOPER_3': Text for junior 1.\n" +
+                    "<li>'JUNIOR_DEVELOPER_2': Text for junior 2.\n" +
+                    "<li>'JUNIOR_DEVELOPER_3': Text for junior 3.\n" +
+                    "<li>'SENIOR_DEVELOPER_1': Text for senior 1.\n" +
+                    "<li>'SENIOR_DEVELOPER_2': Text for senior 2.\n" +
+                    "<li>'SENIOR_DEVELOPER_3': Text for senior 3.\n" +
                     "</ul>\n" +
                     "<p>Random text...\n" +
                     "and has to be added to this API definition as well.</p></div>
