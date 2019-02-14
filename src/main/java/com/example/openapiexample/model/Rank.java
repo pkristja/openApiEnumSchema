@@ -8,11 +8,11 @@ import org.eclipse.microprofile.openapi.annotations.media.Schema;
         "        \"<p>Valid values are:</p>\\n\" +\n" +
         "        \"<ul>\\n\" +\n" +
         "        \"<li>'JUNIOR_DEVELOPER_1': Text for junior 1.\\n\" +\n" +
-        "        \"<li>'JUNIOR_DEVELOPER_2': Text for junior 1.\\n\" +\n" +
-        "        \"<li>'JUNIOR_DEVELOPER_3': Text for junior 1.\\n\" +\n" +
-        "        \"<li>'SENIOR_DEVELOPER_1': Text for junior 1.\\n\" +\n" +
-        "        \"<li>'SENIOR_DEVELOPER_2': Text for junior 1.\\n\" +\n" +
-        "        \"<li>'SENIOR_DEVELOPER_3': Text for junior 1.\\n\" +\n" +
+        "        \"<li>'JUNIOR_DEVELOPER_2': Text for junior 2.\\n\" +\n" +
+        "        \"<li>'JUNIOR_DEVELOPER_3': Text for junior 3.\\n\" +\n" +
+        "        \"<li>'SENIOR_DEVELOPER_1': Text for senior 1.\\n\" +\n" +
+        "        \"<li>'SENIOR_DEVELOPER_2': Text for senior 1.\\n\" +\n" +
+        "        \"<li>'SENIOR_DEVELOPER_3': Text for senior 1.\\n\" +\n" +
         "        \"</ul>\\n\" +\n" +
         "        \"<p>Random text...\\n\" +\n" +
         "        \"and has to be added to this API definition as well.</p></div>",
