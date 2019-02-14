@@ -1,5 +1,23 @@
 # @Schema annotation on Java Enum
 
+## Building and running
+Project is generated from https://thorntail.io/generator/ 
+
+Build:
+```
+mvn clean install
+```
+
+To run the project just got to target foler after project is build and execute:
+```
+java -jar demo-thorntail.jar
+```
+
+After application is running go to ```localhost:8080/openapi``` to download OpenApi generated documentation.
+
+
+## Issue with @Schema annotation
+
 In this example I’m generating OpenAPI 3.0 documentation from annotated java code. But the issue is that when I add @Schema  annotation to enum all the values disappear. 
 
 Snipped of generated OpenAPI 3.0 documentation:
