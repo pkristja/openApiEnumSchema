@@ -11,6 +11,6 @@ public class Developer {
     private String firstName;
     @Schema(required = true, description = "Last name of the developer")
     private String lastName;
-    //@Schema(required = true, implementation = Rank.class)
+    @Schema(required = true, implementation = Rank.class)
     private Rank developerRank;
 }
